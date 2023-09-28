@@ -1,13 +1,13 @@
 {
   "bot_token": "xxxxxx",
-  "chat_id": 111111,
+  "chat_id": 282348495,
   "store_list": [
-    "R577",
-    "R639"
+    "R428",
+    "R485","610","673","429"
   ],
   "model_list": [
   ],
   "fetch_duration": "3s",
   "proxy": "",
-  "region": ""
+  "region": "hk"
 }
